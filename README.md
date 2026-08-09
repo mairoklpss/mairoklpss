@@ -1,7 +1,7 @@
 <img align='right' width="400" height="240" alt="Працював_на_українські_компанії__занадто_багато_часу_приділяв_роботі__роками_недооцінював_себе__працював_за_копійки__Айті" src="https://github.com/user-attachments/assets/e37f53ce-a42b-49d7-ab59-3d460224df45" />
 
 
-### Olá, meu nome é Maira Lopes!
+### Olá, eu sou a Maira Lopes!
 
  <a href="https://www.linkedin.com/in/maira-lopes-4738a635a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&color=f8efd4&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
