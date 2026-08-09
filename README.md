@@ -5,8 +5,10 @@
 
  <a href="https://www.linkedin.com/in/maira-lopes-4738a635a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&color=f8efd4&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<p>Cursando o 3° ano de Desenvolvimento de Sistemas<br/> Atualmente me especializo em Automação em Python e AI Agents</p>
+<p>Cursando o 3° ano de Desenvolvimento de Sistemas</p>
+<p>Atualmente me especializo em Automação em Python e AI Agents</p> 
 
+<br>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
