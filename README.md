@@ -12,14 +12,14 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></a></td>
-    <td><a href="https://www.python.org/"><img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></a></td>
-    <td><a href="https://mariadb.org/"><img alt="MariaDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"></a></td>
-    <td><a href="https://www.mysql.com/"><img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"></a></td>
-    <td><a href="https://www.docker.com/"><img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"></a></td>
-    <td><a href="https://pandas.pydata.org/"><img alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"></a></td>
-    <td><a href="https://www.linux.org/"><img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></a></td>
+    <td><a href="https://www.python.org/"><img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></a></td>
+    <td><a href="https://mariadb.org/"><img alt="MariaDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"></a></td>
+    <td><a href="https://www.mysql.com/"><img alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"></a></td>
+    <td><a href="https://www.docker.com/"><img alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"></a></td>
+    <td><a href="https://pandas.pydata.org/"><img alt="Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"></a></td>
+    <td><a href="https://www.linux.org/"><img alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"></a></td>
   </tr>
 </table>
 
