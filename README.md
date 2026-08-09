@@ -8,7 +8,7 @@
 <p>Cursando o 3° ano de Desenvolvimento de Sistemas</p>
 <p>Atualmente me especializo em Automação em Python e AI Agents</p> 
 
-<br>
+<br><br>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
