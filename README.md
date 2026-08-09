@@ -10,7 +10,7 @@
 
 <br>
 
-### Tech Stacks:
+### Tech Stack:
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></a></td>
